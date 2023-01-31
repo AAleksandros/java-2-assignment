@@ -67,7 +67,7 @@
   <dependency>
     <groupId>gr.hua.dit.oop2</groupId>
     <artifactId>musicplayer</artifactId>
-    <version>1.0.0</version>
+    <version>2.0.0</version>
   </dependency>
 
     <dependency>
